@@ -1,3 +1,1 @@
-# python-project-15
-
-Automated repository creation.
+# crypto-price-tracker\n\nA tracking script that interfaces with external JSON cryptocurrency APIs to fetch live market financial data points and pricing metrics.\n
